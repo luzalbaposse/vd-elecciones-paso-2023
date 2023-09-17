@@ -8,7 +8,7 @@ export default function Home() {
     <div className="absolute">
         <NavigationButtons prevUrl="/nueva-fuerza" nextUrl="/cambio-voto" />
     </div>  
-    <div className="mr-96 mb-96 text-left">
+    <div className="flex space-x-7 mr-56 ml-auto mb-auto mt-12 text-left">
         <div className="text-left">
         <h1 className="text-black font-montserrat text-4xl font-normal mb-2">
           UN CAMBIO EN
@@ -18,7 +18,7 @@ export default function Home() {
         </h1>
         </div>       
         <p className="text-black font-montserrat text-lg mb-12 max-w-md">
-        Ciertas zonas de la Ciudad de Buenos Aires que solían estar coloreadas de <span className="bg-blue-200">azul</span>, toman un tinte <span className="bg-purple-200">violeta</span>.</p>
+        Ciertas zonas de la Ciudad de Buenos Aires que solían estar coloreadas de azul, toman un tinte violeta.</p>
       </div>
 
   </main>

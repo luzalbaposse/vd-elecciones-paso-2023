@@ -17,7 +17,7 @@ export default function Home() {
         <p className="text-black font-montserrat text-lg italic mb-12">
           13/08/2023 - CABA
         </p>
-        <p className="text-black font-montserrat text-lg italic mb-12 max-w-md">
+        <p className="text-black font-montserrat text-lg mb-12 max-w-md">
           Se celebraron las PASO a lo largo y ancho de todo el país. Se vivió un fenómeno extraño: apareció una tercera fuerza. Si bien en CABA, la tendencia hacia JxC fue marcada, La Libertad Avanza comenzó a tomar relevancia.
         </p>
       </div>
