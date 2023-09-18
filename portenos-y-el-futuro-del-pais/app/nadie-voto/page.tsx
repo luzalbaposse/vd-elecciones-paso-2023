@@ -4,7 +4,7 @@ import NavigationButtons from '../components/NavButtons';
 export default function Home() {
 
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center p-24 bg-cover bg-center" style={{ backgroundImage: `url(/nadie-bg.png)`,     transition: 'background-image 0.5s ease-in-out'
+    <main className="flex min-h-screen flex-col items-center justify-center p-24 bg-cover bg-center bg-white" style={{ backgroundImage: `url(/nadie-bg.png)`,     transition: 'background-image 0.5s ease-in-out'
   }}>
     <div className="absolute">
         <NavigationButtons prevUrl="/nueva-lider" nextUrl="/votos-en-blanco" />

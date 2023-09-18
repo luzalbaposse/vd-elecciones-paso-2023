@@ -4,7 +4,7 @@ import NavigationButtons from '../components/NavButtons';
 export default function Home() {
 
   return (
-<main className="flex min-h-screen flex-col items-center justify-center p-24 bg-cover bg-center bg-white" style={{ 
+<main className="flex min-h-screen flex-col items-center justify-center p-24 bg-cover bg-white bg-center bg-white" style={{ 
   backgroundImage: `url(/milei-vs-bullrich.png)`,
   transition: 'background-image 0.5s ease-in-out'
 }}>    <div className="absolute">
