@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center p-24 bg-cover bg-center bg-white relative">
       <div className="absolute z-0">
-        <NavigationButtons prevUrl="/nueva-fuerza" nextUrl="/dato-pobreza" />
+        <NavigationButtons prevUrl="/cambio-voto" nextUrl="/dato-pobreza" />
       </div>
 
       <div className="flex flex-col items-left justify-center space-y-8 relative z-10">

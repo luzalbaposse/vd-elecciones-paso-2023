@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center p-24 bg-cover bg-center" style={{ backgroundImage: `url(/votes-difference-bg.png)` }}>
     <div className="absolute">
-        <NavigationButtons prevUrl="/eleccion-portenos" nextUrl="/nueva-lider" />
+        <NavigationButtons prevUrl="/mapaas-caba" nextUrl="/nueva-lider" />
     </div>  
     <div className="flex space-x-7 mr-56 ml-auto mb-auto mt-12 text-left">    
         <p className="text-black font-montserrat text-lg mb-12 max-w-md">

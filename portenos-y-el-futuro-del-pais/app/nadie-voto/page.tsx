@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center p-24 bg-cover bg-center" style={{ backgroundImage: `url(/nadie-bg.png)` }}>
     <div className="absolute">
-        <NavigationButtons prevUrl="/eleccion-portenos" nextUrl="/mapas-caba" />
+        <NavigationButtons prevUrl="/nueva-lider" nextUrl="/votos-en-blanco" />
     </div>  
     <div className="flex flex-col items-start mt-12 ml-56 mr-auto">
   <div className="text-left mb-2">
