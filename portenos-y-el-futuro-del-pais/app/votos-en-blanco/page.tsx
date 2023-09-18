@@ -4,7 +4,7 @@ import NavigationButtons from '../components/NavButtons';
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center p-24 bg-cover bg-center" style={{ backgroundImage: `url(/blanco-bg.png)` }}>
+    <main className="flex max-h-screen flex-col items-center justify-center p-24 bg-cover bg-center" style={{ backgroundImage: `url(/blanco-bg.png)` }}>
       <div className="absolute">
         <NavigationButtons prevUrl="/nadie-voto" nextUrl="/jxc" />
       </div>  
@@ -20,13 +20,13 @@ export default function Home() {
       
       <div className="flex flex-col items-start mt-auto ml-56 mr-auto">
         <div className="text-left mb-2">
-          <h1 className="text-black font-montserrat text-4xl font-normal mb-2">
+          <h1 className="text-black font-montserrat text-2xl font-normal mb-2 tracking-widest">
             UNA DE CADA
           </h1>
-          <h1 className="text-black font-montserrat text-7xl font-bold mb-2">
+          <h1 className="text-black font-montserrat text-5xl font-bold mb-2">
             SESENTA PERSONAS
           </h1>
-          <h1 className="text-black font-montserrat text-7xl font-bold mb-2">
+          <h1 className="text-black font-montserrat text-5xl font-bold mb-2">
             VOTÓ EN BLANCO
           </h1>
         </div>

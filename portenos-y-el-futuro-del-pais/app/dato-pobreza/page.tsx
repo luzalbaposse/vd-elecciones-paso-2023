@@ -8,12 +8,11 @@ export default function Home() {
     <div className="absolute">
         <NavigationButtons prevUrl="/mapaas-caba" nextUrl="/nueva-lider" />
     </div>  
-    <div className="flex space-x-7 mr-56 ml-auto mb-auto mt-12 text-left">    
-        <p className="text-black font-montserrat text-lg mb-12 max-w-md">
-        El dato más elevado de pobreza en hogares se encuentra en la zona sur (32,6%), donde ubicamos barrios como La Boca, Villa Soldati y Villa Lugano, entre otros. Le sigue zona centro (19%) y por último zona norte (12,6%) conformada por barrios como Recoleta, Belgrano y Palermo, entre otros.
+    <div className="w-6/12	mr-2 ml-96 mb-auto mt-2 text-left">    
+        <p className="text-black font-montserrat text-lg mb-12">
+        El dato más elevado de pobreza en hogares se encuentra en la zona sur (<b> 32,6%</b>), donde ubicamos barrios como La Boca, Villa Soldati y Villa Lugano, entre otros. Le sigue zona centro (<b> 19%</b>) y por último zona norte (<b>12,6%</b>) conformada por barrios como Recoleta, Belgrano y Palermo, entre otros.
         </p>
       </div>
-
   </main>
   )
 }

@@ -9,10 +9,10 @@ export default function Home() {
         <NavigationButtons prevUrl="/dato-pobreza" nextUrl="/nadie-voto" />
     </div>  
     <div className="mt-8 mb-auto text-center">
-        <h1 className="text-black font-montserrat text-4xl font-normal mb-2">
+    <h1 className="text-black font-montserrat text-4xl font-light tracking-widest	mb-2">
           JUNTOS POR EL CAMBIO
         </h1>
-        <h1 className="text-black font-montserrat text-7xl font-bold mb-2">
+        <h1 className="text-black font-montserrat text-8xl font-bold mb-2">
           NUEVA LÍDER
         </h1>
       </div>

@@ -8,22 +8,18 @@ export default function Home() {
     <div className="absolute">
         <NavigationButtons prevUrl="/milei" nextUrl="/milei-vs-patricia" />
     </div>  
-    <div className="flex flex-col items-start mt-12 ml-auto">
-    <div className="text-left mb-2">
-    <h1 className="text-black font-montserrat text-4xl font-normal mb-2">
-      LOREM
+    <div className="flex flex-col items-end mt-0 ml-auto mr-0 z-10">
+    <div className="text-right mb-2">
+    <h1 className="text-black tracking-widest font-montserrat text-4xl font-normal mb-2">
+      LOS QUE PERDIERON
     </h1>
     <h1 className="text-black font-montserrat text-7xl font-bold mb-2">
-      IPSUM
+      EL SUR
     </h1>
   </div>
-  <p className="text-black font-montserrat text-lg mb-12 max-w-md">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl eget aliquam aliquet, nunc nisl ultricies nunc, eget aliquam nisl nis.
-  </p>
-  <p className="text-black font-montserrat text-lg mb-12 max-w-md">
-    👉 Cosa 1 <br />
-    👉 Cosa 2 <br />
-    👉 Cosa 3 <br />
+  <p className="text-black font-montserrat text-lg text-right mb-12 w-1/3">
+    La Capital siempre estuvo pintada de amarillo, salvo por el sur: en los barrios más humildes, Unión por la Patria solía imponerse. <br />
+    Sin embargo, en esta elección, fueron desplazados por el de la melena.
   </p>
 </div>
   </main>
