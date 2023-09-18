@@ -4,9 +4,9 @@ import NavigationButtons from '../components/NavButtons';
 export default function Home() {
 
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center p-24 bg-[length:1920px_1080px] bg-[url('../public/cambio-voto-bg.png')]">
+    <main className="flex min-h-screen flex-col items-center justify-center p-24 bg-cover bg-center" style={{ backgroundImage: `url(/cambio-voto-bg.png)` }}>
     <div className="absolute">
-        <NavigationButtons prevUrl="/nueva-fuerza" nextUrl="/cambio-voto" />
+        <NavigationButtons prevUrl="/eleccion-portenos" nextUrl="/mapas-caba" />
     </div>  
     <div className="flex space-x-7 mr-56 ml-auto mb-auto mt-12 text-left">
         <div className="text-left">

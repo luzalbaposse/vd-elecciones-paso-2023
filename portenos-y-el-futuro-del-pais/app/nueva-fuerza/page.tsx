@@ -3,7 +3,7 @@ import NavigationButtons from '../components/NavButtons';
 export default function Home() {
 
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center p-24 bg-[length:1920px_1080px] bg-[url('../public/votobg.png')]">
+    <main className="flex min-h-screen flex-col items-center justify-center p-24 bg-cover bg-center" style={{ backgroundImage: `url(/votobg.png)` }}>
     <div className="absolute">
         <NavigationButtons prevUrl="/" nextUrl="/eleccion-portenos" />
       </div>  
