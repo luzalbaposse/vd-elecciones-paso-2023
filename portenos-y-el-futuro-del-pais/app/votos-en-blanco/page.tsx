@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center p-24 bg-cover bg-center" style={{ backgroundImage: `url(/blanco-bg.png)` }}>
       <div className="absolute">
-        <NavigationButtons prevUrl="/nadie-voto" nextUrl="/" />
+        <NavigationButtons prevUrl="/nadie-voto" nextUrl="/jxc" />
       </div>  
       <iframe
         src='https://flo.uri.sh/visualisation/15007485/embed'
