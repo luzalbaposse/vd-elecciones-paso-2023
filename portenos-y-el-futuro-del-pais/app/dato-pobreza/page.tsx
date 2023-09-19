@@ -7,7 +7,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-center p-24 bg-white bg-cover bg-center" style={{ backgroundImage: `url(/votes-difference-bg.png)`,     transition: 'background-image 0.5s ease-in-out'
   }}>
     <div className="absolute">
-        <NavigationButtons prevUrl="/mapaas-caba" nextUrl="/nueva-lider" />
+        <NavigationButtons prevUrl="/mapas-caba" nextUrl="/nueva-lider" />
     </div>  
     <div className="w-6/12	mr-2 ml-96 mb-auto mt-2 text-left">    
         <p className="text-black font-montserrat text-lg mb-12 bg-white">

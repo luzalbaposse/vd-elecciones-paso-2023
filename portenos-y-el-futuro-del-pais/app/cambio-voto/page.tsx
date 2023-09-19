@@ -10,7 +10,7 @@ export default function Home() {
     <div className="absolute">
         <NavigationButtons prevUrl="/eleccion-portenos" nextUrl="/mapas-caba" />
     </div>  
-    <div className="flex space-x-4 mr-0 ml-96 mb-auto mt-2 text-left">
+    <div className="flex space-x-5 mr-0 ml-[300px] mb-auto mt-2 text-left bg-white">
         <div className="text-right ml-32">
         <h1 className="text-black font-montserrat text-4xl font-light tracking-widest	mb-2">
           UN CAMBIO EN

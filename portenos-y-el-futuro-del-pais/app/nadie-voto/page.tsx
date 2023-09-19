@@ -9,7 +9,7 @@ export default function Home() {
     <div className="absolute">
         <NavigationButtons prevUrl="/nueva-lider" nextUrl="/votos-en-blanco" />
     </div>  
-  <div className="flex flex-col items-start mt-12 ml-56 mr-auto">
+  <div className="flex flex-col items-start mt-12 ml-[150px] mr-auto">
   <h1 className="text-black text-right font-montserrat text-4xl font-light tracking-widest mb-2 bg-white">
       ELEGIR A
     </h1>

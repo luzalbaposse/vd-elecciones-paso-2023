@@ -3,7 +3,7 @@ import NavigationButtons from '../components/NavButtons';
 
 export default function Home() {
   return (
-    <main className="flex max-h-screen min-h-screen flex-col items-center justify-center p-24 bg-cover bg-white bg-center bg-white relative">
+    <main className="flex max-w-screen max-h-screen min-h-screen flex-col items-center justify-center p-24 bg-cover bg-white bg-center bg-white relative">
       <div className="absolute z-0">
         <NavigationButtons prevUrl="/cambio-voto" nextUrl="/dato-pobreza" />
       </div>
