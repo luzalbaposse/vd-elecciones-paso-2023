@@ -63,19 +63,19 @@ Los gráficos de barra buscan mostrar cantidades numéricas comparativas de mane
 
 Por otro lado, la inclusión de mapas proporciona una perspectiva geoespacial crucial para entender la distribución de votos por zona. La codificación de colores en los mapas, utilizando los tonos representativos de cada partido, ofrece una representación efectiva de la preferencia de los votantes en diferentes áreas geográficas. Esto permite identificar tendencias regionales y contrastes en la distribución de votos, aportando un nivel adicional de comprensión y contexto a la visualización.
 
-Gráfico de Barras:
+- Gráfico de Barras:
 
-Marca: Las barras en sí mismas son la marca. Representan la cantidad de votos para cada candidato.
-Canal: La longitud de las barras codifica la cantidad de votos. Es el canal utilizado para cuantificar los datos.
+  - Marca: Las barras en sí mismas son la marca. Representan la cantidad de votos para cada candidato.
+  - Canal: La longitud de las barras codifica la cantidad de votos. Es el canal utilizado para cuantificar los datos.
 
-Mapa:
+- Mapa:
 
-Marca: Los elementos visuales en el mapa (como polígonos que representan áreas geográficas y puntos que indican ubicaciones específicas) son las marcas.
-Canal:
-Color: El color utilizado para rellenar los polígonos del mapa codifica la cantidad de votos para cada candidato en cada zona geográfica. Es el canal utilizado para cuantificar los datos.
-Ubicación espacial: La ubicación de las áreas geográficas en el mapa (las distintas comunas de la Ciudad de Buenos Aires) es un canal importante para contextualizar la información.
+  - Marca: Los elementos visuales en el mapa (como polígonos que representan áreas geográficas y puntos que indican ubicaciones específicas) son las marcas.
+  - Canal:
+        - Color: El color utilizado para rellenar los polígonos del mapa codifica la cantidad de votos para cada candidato en cada zona geográfica. Es el canal utilizado para cuantificar los datos.
+        - Ubicación espacial: La ubicación de las áreas geográficas en el mapa (las distintas comunas de la Ciudad de Buenos Aires) es un canal importante para contextualizar la información.
 
-## Decisiones de Diseño 🎨
+## Decisiones de Diseño 🎨
 Utilizamos una estética de collage para transmitir la complejidad y diversidad del proceso electoral en la Ciudad de Buenos Aires. 
 
 El uso de colores representativos de los partidos involucrados desempeña un papel crucial en la identificación y comprensión instantánea de la información. Al asociar cada partido político con un color específico, se facilita la navegación visual a través de la visualización y se agiliza el reconocimiento de las tendencias y preferencias de los votantes.
