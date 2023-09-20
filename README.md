@@ -4,7 +4,7 @@ Este repositorio contiene un dataviz interactivo construido con Next.js y React 
 
 ## Demostración 🖥️
 
-Podes ver una demostración del dataviz ([acá](https://vd-elecciones-paso-2023.vercel.app/eleccion-portenos]).
+Podes ver una demostración del dataviz [acá](https://vd-elecciones-paso-2023.vercel.app/eleccion-portenos).
 
 ## Capturas de Pantalla 📸
 
