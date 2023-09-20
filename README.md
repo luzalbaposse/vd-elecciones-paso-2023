@@ -2,9 +2,10 @@
 
 Este repositorio contiene un dataviz interactivo construido con Next.js y React que visualiza los resultados de las elecciones en la Ciudad de Buenos Aires. Utiliza una estética de collage, combinando colores partidarios, recursos ilustrativos de zonas geográficas y objetos identificativos de candidatos para proporcionar una experiencia visual atractiva y comprensible.
 
-## Demostración 🖥️
+## Recursos Rápidos 🖥️
 
-Podes ver una demostración del dataviz [acá](https://vd-elecciones-paso-2023.vercel.app/eleccion-portenos).
+Mirá el DataViz [acá](https://vd-elecciones-paso-2023.vercel.app/eleccion-portenos).
+Mirá el Figma [acá](https://www.figma.com/file/OJGj9LIlajkbPjwARl5I8i/%C2%BFQu%C3%A9-quieren-los-porte%C3%B1os-para-el-futuro-del-pa%C3%ADs%3F?type=design&node-id=117-2&mode=design).
 
 ## Capturas de Pantalla 📸
 
