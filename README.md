@@ -4,8 +4,9 @@ Este repositorio contiene un dataviz interactivo construido con Next.js y React 
 
 ## Recursos Rápidos 🖥️
 
-Mirá el DataViz [acá](https://vd-elecciones-paso-2023.vercel.app/eleccion-portenos).
-Mirá el Figma [acá](https://www.figma.com/file/OJGj9LIlajkbPjwARl5I8i/%C2%BFQu%C3%A9-quieren-los-porte%C3%B1os-para-el-futuro-del-pa%C3%ADs%3F?type=design&node-id=117-2&mode=design).
+Mirá el [Dataviz](https://vd-elecciones-paso-2023.vercel.app/eleccion-portenos).
+
+Mirá el [Figma](https://www.figma.com/file/OJGj9LIlajkbPjwARl5I8i/%C2%BFQu%C3%A9-quieren-los-porte%C3%B1os-para-el-futuro-del-pa%C3%ADs%3F?type=design&node-id=117-2&mode=design).
 
 ## Capturas de Pantalla 📸
 
